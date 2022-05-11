@@ -2,22 +2,25 @@
 <html>
     <head>
         <title>Primeiro JSP</title>
-        <style type="text/css">
-        div{
-            width: 500px;
-            height: 250px;
-        }
-        .azul{
-            background-color: rgb(201, 194, 194);
-            font-weight: 500;
-        }
-    </style>
     </head>
     <body>
-        <h1>Olá SpringBoot!!!</h1>
-        <img src="sol.jpg" alt="sol" width="500px" height="250px">
-        <div class="azul">
-            <p>O sol já nasceu vamo levantapkfjnef</p>
+        <div>
+            <h1>5 Maiores Filmes </h1>
+            <p>Esses são considerados os 5 maiores filmes
+            <span>reel-icon</span>de todos os tempos </p>
+            <hr/>
+            <h2>1. The Godfather</h2>
+            <p>O clássico de 1972 possui no elencon Marlon
+             Brando e Al Pacino.</p>
+            </div>
+            <p><strong>Texto em negrito </strong> Regular text
+                <em>texto em itálico </em> texto normal
+            </p>
+            <blockquote>
+                Tudo deveria se tornar o mais simples possível,
+                mas não simplificado.<cite>- Albert Einstein</cite>
+            </blockquote>
         </div>
+        
     </body>
 </html>
