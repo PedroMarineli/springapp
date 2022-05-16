@@ -1,2 +1,2 @@
-rootProject.name = 'springapp'
-include('webapp')
+rootProject.name = 'etec2022'
+include('springstart')
